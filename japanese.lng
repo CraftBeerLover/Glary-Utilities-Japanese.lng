@@ -1,6 +1,6 @@
 [Language]
 Description= 日本語(Japanese)
-Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.4)
+Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.5)
 
 [Globals]
 10001= ファイル
@@ -192,7 +192,7 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.4)
 20040= ライセンスをお持ちですか？
 20041= 新しく入手するにはここをクリック
 20042= ライセンスコードをなくしました
-20043= Glary Utilities Pro を有効にします
+20043= %s Pro を有効にします
 20044= 名前:
 20045= 有効期限:
 20046= %s 日残っています
@@ -885,6 +885,7 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.4)
 12088= 最後の使用:
 12089= アンインストール情報を保存:
 12090= 最終アクセス更新を無効化
+12091= New!
 
 [Duplicate Files Finder]
 15001= 重複ファイルの検出
@@ -2589,7 +2590,7 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.4)
 4001012= 解析のためデータ送信中...
 4001013= 結果をオープン中...
 4001014= インストールされたソフトウェアをスキャンするために[スキャン] ボタンをクリックしてください！
-4001015= www.glarysoft.com を訪問
+4001015= www.filepuma.com を訪問
 4001016= トレイから取り出す
 4001017= 終了
 4001019= さらに見る
@@ -2656,7 +2657,7 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.4)
 [GU Downloader]
 7001001= Glary Utilities のダウンロード
 7001002= ダウンロードを開始
-7001003= 終了
+7001003= 停止
 7001004= ヒント
 7001005= ファイルをダウンロードしている間お待ち下さい
 7001006= ダウンロードは成功しました。インストールを開始します
