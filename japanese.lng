@@ -1,6 +1,6 @@
 [Language]
 Description= 日本語(Japanese)
-Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.2)
+Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.3)
 
 [Globals]
 10001= ファイル
@@ -768,9 +768,10 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.2)
 1305015= Firefox
 1305016= Google Chrome
 1305017= Opera
+1305018= %s はキャッシュをきれいにするためにクローズする必要があります。\n%s2 に %s をクローズさせますか？
 
 1306001= 本日の掃除: %s、合計: %s2。
-1306002= %s を発見、%s2 を回収。
+1306002= %s を発見、%s2 を削除。
 1306003= %s を修復しますか？
 1306004= %s は正しく修復されました。
 1306005= %s 個のごみファイルが削除されました。
@@ -1997,7 +1998,7 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.2)
 1002008= スタートアップの管理
 1002009= %s を使用中です
 1002010= 今すぐアップグレード
-1002011= ユーザー体験向上プログラムに参加
+1002011= ユーザーエクスペリエンス向上プログラムに参加
 1002012= 時
 1002013= 分
 1002014= 秒
@@ -2180,6 +2181,8 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.2)
 2801007= タスクはスケジュールされていません
 2801008= ユーザー アカウント制御の警告をスキップ
 2801009= サブメニューとしてコンテキストメニューを表示
+2801010= Glary Utilities エクスペリエンス向上プログラムに参加する
+2801011= 詳しく見る
 
 2802001= スケジュール:
 2802002= 開始時間:
@@ -2570,6 +2573,7 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.2)
 4000001= ソフトウェアのアップデート
 4000002= 結果をカスタマイズ
 4000003= ベータ版を隠す
+4000004= SoftwareUpdate
 4000005= OK
 4001001= Read more...  
 4001002= Cancel
