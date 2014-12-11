@@ -1,6 +1,6 @@
 [Language]
 Description= 日本語(Japanese)
-Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.9)
+Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.10)
 
 [Globals]
 10001= ファイル
@@ -2630,7 +2630,7 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.9)
 2901008= ブート時間を取得中です。お待ちください...
 
 [DRIVER BACKUP]
-2201001= ドライバーの管理
+2200001= ドライバーの管理
 2201002= アンインストール
 2201003= 復元
 2201004= 選択されたドライバーは正常にバックアップされました。
@@ -2668,7 +2668,7 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.9)
 2201037= ドライバーの復元
 
 [Software Update]
-4000001= SoftwareUpdate
+4000001= ソフトウェアのアップデート
 4000002= 結果をカスタマイズ
 4000003= ベータ版を隠す
 4000004= 検知機能をアップデート
@@ -2763,13 +2763,13 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.9)
 7001009= インストール
 
 [FileUnlocker]
-8001001= 選択されたファイル/フォルダー
-8001002= ファイル/フォルダー
+8001001= ロック中か検査のために選択されたファイル
+8001002= ファイル
 8001003= ステータス
 8001004= もっと
 8001005= ファイルを追加
 8001006= フォルダーを追加
-8001007= 占有されたファイル/フォルダーの情報
+8001007= 以下のプロセスによってロック中
 8001008= プロセス名
 8001009= プロセスのパス
 8001010= PID
@@ -2778,8 +2778,7 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.9)
 8001012= UpProcessPriority 失敗！
 8001013= CreateToolhelp32Snapshot エラー！
 8001014= アンロック失敗！
-8001015= アンロック成功！
-8001016= 以下のプロセスによって占有されています。
+8001015= アンロックが成功しました！
 8001017= アンロックしました。
 8001018= アンロック済み
 8001019= ロック中
