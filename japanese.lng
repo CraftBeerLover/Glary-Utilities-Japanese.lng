@@ -1,6 +1,6 @@
 [Language]
 Description= 日本語(Japanese)
-Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.16)
+Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.17)
 
 [Globals]
 10001= ファイル
@@ -2695,6 +2695,12 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.16)
 2201051= 説明:
 2201052= データベースを更新...
 2200901= PCのドライバをバックアップ、復元、更新します。
+
+2201062= 無視
+2201063= 停止
+2201065= 無視されたドライバ
+2201066= 無視を停止
+
 
 [Software Update]
 4000001= ソフトウェアのアップデート
