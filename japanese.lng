@@ -1,6 +1,6 @@
 [Language]
 Description= 日本語(Japanese)
-Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.19)
+Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.20)
 
 [Globals]
 10001= ファイル
@@ -70,6 +70,8 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.19)
 10061= 新しいバージョンが利用可能になったら通知
 10062= 最新バージョンに自動的にアップデート
 10063= Pro にアップグレード
+
+10070= %s 秒間無視する。
 
 [Integrator]
 10801= クリーンアップ ＆ 修復
@@ -2069,6 +2071,7 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.19)
 1001004= バージョン:
 1001005= いいね
 1001006= ヘルプ & サポート
+1001007= 翻訳を手伝う
 
 [OVERVIEW]
 1002001= 概要
