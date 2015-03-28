@@ -1,6 +1,6 @@
 [Language]
 Description= 日本語(Japanese)
-Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.20)
+Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.21)
 
 [Globals]
 10001= ファイル
@@ -2072,6 +2072,7 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.20)
 1001005= いいね
 1001006= ヘルプ & サポート
 1001007= 翻訳を手伝う
+1001008= ドックバーを隠す
 
 [OVERVIEW]
 1002001= 概要
@@ -2101,6 +2102,11 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.20)
 1003003= マルウェアの予防
 1003004= システムの最適化
 1003005= ハードディスクのデフラグ
+1003006= 自動的に修復
+1003007= シャットダウン
+1003008= 再起動
+1003009= 休止状態
+1003010= スリープ
 
 [ADVANCED TOOLS]
 1004001= 高度なツール
@@ -2192,6 +2198,9 @@ Author= CraftBeerLover (Y.H) -- Japanese language file (ver. 5.20)
 
 [ANTI MALWARE]
 1009001= アンチマルウェア
+
+[AUTOACTION]
+1008001= 修復が完了しました。あなたのPC は %s されます
 
 [CHECKDISK]
 2400001= ディスクの検査
